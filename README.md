@@ -11,7 +11,7 @@
 
 -- Users get the extracted text from the image.
 
-https://drive.google.com/file/d/1UsyN2bSeUC6b16isT6TdoKiaD0x7-DIQ/view?usp=sharing
+Video Demonstration: https://drive.google.com/file/d/1UsyN2bSeUC6b16isT6TdoKiaD0x7-DIQ/view?usp=sharing
 
 
 Application Link: http://smart-id-scanner.apps.pcfdev.in/
